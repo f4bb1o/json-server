@@ -8,8 +8,18 @@
             "Punto Luce",
             "WiFi",
             "Telecamera"
-        ]
+        ], 
       }, 
+      {
+        "area": "Punti Luce",
+        "name" : "Palo Intelligente",
+        "lat" : 41.893249,
+        "lng" : 12.432464,
+        "services" : [
+            "Punto Luce",
+            "Monitoraggio ambientale"
+        ]
+      }
       {
         "area": "Punti Luce",
         "name" : "Palo Intelligente",
