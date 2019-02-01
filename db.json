@@ -13,6 +13,16 @@
       {
         "area": "Punti Luce",
         "name" : "Palo Intelligente",
+        "lat" : 41.893267,
+        "lng" : 12.432472,
+        "services" : [
+            "Punto Luce",
+            "Monitoraggio ambientale"
+        ]
+      },
+      {
+        "area": "Punti Luce",
+        "name" : "Palo Intelligente",
         "lat" : 45.438276,
         "lng" : 10.991969,
         "services" : [
