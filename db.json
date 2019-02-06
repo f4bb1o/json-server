@@ -33,16 +33,6 @@
       {
         "area": "Punti Luce",
         "name" : "Palo Intelligente",
-        "lat" : 44.177226,
-        "lng" : 12.161350,
-        "services" : [
-            "Punto Luce",
-            "Telecamera"
-        ]
-      },
-      {
-        "area": "Punti Luce",
-        "name" : "Palo Intelligente",
         "lat" : 45.438276,
         "lng" : 10.991969,
         "services" : [
