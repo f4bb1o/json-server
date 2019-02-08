@@ -28,7 +28,7 @@
                 "url" : ""
             },
             {
-                "type" : "Monitoraggio ambienatale",
+                "type" : "Monitoraggio ambientale",
                 "url" : "http://live.netsens.it/export/xml_export_1A.php?username=gtech&password=gtechacea!&station_id=8"
             }
         ]
