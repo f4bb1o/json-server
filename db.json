@@ -51,6 +51,21 @@
       {
         "area": "Punti Luce",
         "name" : "Palo Intelligente",
+        "lat" : 44.176850, 
+        "lng" : 12.161671,
+        "services" : [{
+                "type" : "Punto Luce",
+                "url" : ""
+            },
+            {
+                "type" : "Telecamera",
+                "url" : "http://116.203.34.212/node/jsmpeg/view-stream2.html"
+            }
+        ]
+      },
+      {
+        "area": "Punti Luce",
+        "name" : "Palo Intelligente",
         "lat" : 45.438276,
         "lng" : 10.991969,
         "services" : [{
