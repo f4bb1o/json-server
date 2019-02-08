@@ -4,10 +4,18 @@
         "name" : "Palo Intelligente",
         "lat" : 45.438355,
         "lng" : 10.991736,
-        "services" : [
-            "Punto Luce",
-            "WiFi",
-            "Telecamera"
+        "services" : [{
+                type : "Punto Luce",
+                url : ""
+            },
+            {
+                type : "WiFi",
+                url : ""
+            },
+            {
+                type : "Telecamera",
+                url : ""
+            }
         ]
       }, 
       {
@@ -15,9 +23,14 @@
         "name" : "Palo Intelligente",
         "lat" : 41.893267,
         "lng" : 12.432472,
-        "services" : [
-            "Punto Luce",
-            "Monitoraggio ambientale"
+        "services" : [{
+                type : "Punto Luce",
+                url : ""
+            },
+            {
+                type : "Monitoraggio ambienatale",
+                url : "http://live.netsens.it/export/xml_export_1A.php?username=gtech&password=gtechacea!&station_id=8"
+            }
         ]
       },
       {
@@ -25,9 +38,14 @@
         "name" : "Palo Intelligente",
         "lat" : 44.176934, 
         "lng" : 12.161221,
-        "services" : [
-            "Punto Luce",
-            "Telecamera"
+        "services" : [{
+                type : "Punto Luce",
+                url : ""
+            },
+            {
+                type : "Telecamera",
+                url : "http://116.203.34.212/node/jsmpeg/view-stream.html"
+            }
         ]
       },
       {
@@ -35,9 +53,14 @@
         "name" : "Palo Intelligente",
         "lat" : 45.438276,
         "lng" : 10.991969,
-        "services" : [
-            "Punto Luce",
-            "Telecamera"
+        "services" : [{
+                type : "Punto Luce",
+                url : ""
+            },
+            {
+                type : "Telecamera",
+                url : "http://116.203.34.212/node/jsmpeg/view-stream2.html"
+            }
         ]
       },
       {
@@ -46,14 +69,38 @@
         "lat" : 45.438155, 
         "lng" : 10.992361,
         "services" : [
-            "Punto Luce",
-            "WiFi",
-            "Telecamera",
-            "Monitoraggio ambientale",
-            "Lora",
-            "LTE",
-            "GPS",
-            "Diffusione sonora"
+            {
+                type : "Punto Luce",
+                url : ""
+            },
+            {
+                type : "WiFi",
+                url : ""
+            },
+            {
+                type : "Telecamera",
+                url : ""
+            },
+            {
+                type : "Monitoraggio ambientale",
+                url : ""
+            },
+            {
+                type : "Lora",
+                url : ""
+            },
+            {
+                type : "LTE",
+                url : ""
+            },
+            {
+                type : "GPS",
+                url : ""
+            },
+            {
+                type : "Diffusione sonora",
+                url : ""
+            }
         ]
       },
       {
@@ -62,14 +109,38 @@
         "lat" : 45.438032,  
         "lng" : 10.992780,
         "services" : [
-            "Punto Luce",
-            "WiFi",
-            "Telecamera",
-            "Monitoraggio ambientale",
-            "Lora",
-            "LTE",
-            "GPS",
-            "Diffusione sonora"
+            {
+                type : "Punto Luce",
+                url : ""
+            },
+            {
+                type : "WiFi",
+                url : ""
+            },
+            {
+                type : "Telecamera",
+                url : ""
+            },
+            {
+                type : "Monitoraggio ambientale",
+                url : ""
+            },
+            {
+                type : "Lora",
+                url : ""
+            },
+            {
+                type : "LTE",
+                url : ""
+            },
+            {
+                type : "GPS",
+                url : ""
+            },
+            {
+                type : "Diffusione sonora",
+                url : ""
+            }
         ]
       },
       {
@@ -78,8 +149,14 @@
         "lat" : 45.439327,
         "lng" : 10.993445,
         "services" : [
-            "GPS",
-            "WiFi"
+            {
+                type : "GPS",
+                url : ""
+            },
+            {
+                type : "WiFi",
+                url : ""
+            }
         ]
       },
       {
@@ -88,8 +165,14 @@
         "lat" : 45.438845, 
         "lng" : 10.993574,
         "services" : [
-            "GPS",
-            "WiFi"
+            {
+                type : "GPS",
+                url : ""
+            },
+            {
+                type : "WiFi",
+                url : ""
+            }
         ]
       },
       {
@@ -98,7 +181,10 @@
         "lat" : 45.438597, 
         "lng" : 10.993778,
         "services" : [
-            "WiFi"
+            {
+                type : "WiFi",
+                url : ""
+            }
         ]
       },
       {
@@ -107,7 +193,10 @@
         "lat" : 45.438424, 
         "lng" : 10.994229,
         "services" : [
-            "WiFi"
+            {
+                type : "WiFi",
+                url : ""
+            }
         ]
       },
       {
@@ -116,8 +205,14 @@
         "lat" : 45.439553, 
         "lng" : 10.994583,
         "services" : [
-            "WiFi",
-            "Corrente"
+            {
+                type : "WiFi",
+                url : ""
+            },
+            {
+                type : "Corrente",
+                url : ""
+            }
         ]
       },
       {
@@ -126,8 +221,14 @@
         "lat" : 45.439350,  
         "lng" : 10.994969,
         "services" : [
-            "WiFi",
-            "Corrente"
+            {
+                type : "WiFi",
+                url : ""
+            },
+            {
+                type : "Corrente",
+                url : ""
+            }
         ]
       },
       {
@@ -136,8 +237,14 @@
         "lat" : 45.438469,  
         "lng" : 10.992158,
         "services" : [
-            "WiFi",
-            "Monitoraggio ambientale"
+            {
+                type : "WiFi",
+                url : ""
+            },
+            {
+                type : "Monitoraggio ambientale",
+                url : ""
+            }
         ]
       },
       {
@@ -146,8 +253,14 @@
         "lat" : 45.438499, 
         "lng" : 10.993209,
         "services" : [
-            "WiFi",
-            "Monitoraggio ambientale"
+            {
+                type : "WiFi",
+                url : ""
+            },
+            {
+                type : "Monitoraggio ambientale",
+                url : ""
+            }
         ]
       }
     ]
