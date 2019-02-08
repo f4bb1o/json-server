@@ -5,16 +5,16 @@
         "lat" : 45.438355,
         "lng" : 10.991736,
         "services" : [{
-                type : "Punto Luce",
-                url : ""
+                "type" : "Punto Luce",
+                "url" : ""
             },
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             },
             {
-                type : "Telecamera",
-                url : ""
+                "type" : "Telecamera",
+                "url" : ""
             }
         ]
       }, 
@@ -24,12 +24,12 @@
         "lat" : 41.893267,
         "lng" : 12.432472,
         "services" : [{
-                type : "Punto Luce",
-                url : ""
+                "type" : "Punto Luce",
+                "url" : ""
             },
             {
-                type : "Monitoraggio ambienatale",
-                url : "http://live.netsens.it/export/xml_export_1A.php?username=gtech&password=gtechacea!&station_id=8"
+                "type" : "Monitoraggio ambienatale",
+                "url" : "http://live.netsens.it/export/xml_export_1A.php?username=gtech&password=gtechacea!&station_id=8"
             }
         ]
       },
@@ -39,12 +39,12 @@
         "lat" : 44.176934, 
         "lng" : 12.161221,
         "services" : [{
-                type : "Punto Luce",
-                url : ""
+                "type" : "Punto Luce",
+                "url" : ""
             },
             {
-                type : "Telecamera",
-                url : "http://116.203.34.212/node/jsmpeg/view-stream.html"
+                "type" : "Telecamera",
+                "url" : "http://116.203.34.212/node/jsmpeg/view-stream.html"
             }
         ]
       },
@@ -54,12 +54,12 @@
         "lat" : 45.438276,
         "lng" : 10.991969,
         "services" : [{
-                type : "Punto Luce",
-                url : ""
+                "type" : "Punto Luce",
+                "url" : ""
             },
             {
-                type : "Telecamera",
-                url : "http://116.203.34.212/node/jsmpeg/view-stream2.html"
+                "type" : "Telecamera",
+                "url" : "http://116.203.34.212/node/jsmpeg/view-stream2.html"
             }
         ]
       },
@@ -70,36 +70,36 @@
         "lng" : 10.992361,
         "services" : [
             {
-                type : "Punto Luce",
-                url : ""
+                "type" : "Punto Luce",
+                "url" : ""
             },
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             },
             {
-                type : "Telecamera",
-                url : ""
+                "type" : "Telecamera",
+                "url" : ""
             },
             {
-                type : "Monitoraggio ambientale",
-                url : ""
+                "type" : "Monitoraggio ambientale",
+                "url" : ""
             },
             {
-                type : "Lora",
-                url : ""
+                "type" : "Lora",
+                "url" : ""
             },
             {
-                type : "LTE",
-                url : ""
+                "type" : "LTE",
+                "url" : ""
             },
             {
-                type : "GPS",
-                url : ""
+                "type" : "GPS",
+                "url" : ""
             },
             {
-                type : "Diffusione sonora",
-                url : ""
+                "type" : "Diffusione sonora",
+                "url" : ""
             }
         ]
       },
@@ -110,36 +110,36 @@
         "lng" : 10.992780,
         "services" : [
             {
-                type : "Punto Luce",
-                url : ""
+                "type" : "Punto Luce",
+                "url" : ""
             },
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             },
             {
-                type : "Telecamera",
-                url : ""
+                "type" : "Telecamera",
+                "url" : ""
             },
             {
-                type : "Monitoraggio ambientale",
-                url : ""
+                "type" : "Monitoraggio ambientale",
+                "url" : ""
             },
             {
-                type : "Lora",
-                url : ""
+                "type" : "Lora",
+                "url" : ""
             },
             {
-                type : "LTE",
-                url : ""
+                "type" : "LTE",
+                "url" : ""
             },
             {
-                type : "GPS",
-                url : ""
+                "type" : "GPS",
+                "url" : ""
             },
             {
-                type : "Diffusione sonora",
-                url : ""
+                "type" : "Diffusione sonora",
+                "url" : ""
             }
         ]
       },
@@ -150,12 +150,12 @@
         "lng" : 10.993445,
         "services" : [
             {
-                type : "GPS",
-                url : ""
+                "type" : "GPS",
+                "url" : ""
             },
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             }
         ]
       },
@@ -166,12 +166,12 @@
         "lng" : 10.993574,
         "services" : [
             {
-                type : "GPS",
-                url : ""
+                "type" : "GPS",
+                "url" : ""
             },
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             }
         ]
       },
@@ -182,8 +182,8 @@
         "lng" : 10.993778,
         "services" : [
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             }
         ]
       },
@@ -194,8 +194,8 @@
         "lng" : 10.994229,
         "services" : [
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             }
         ]
       },
@@ -206,12 +206,12 @@
         "lng" : 10.994583,
         "services" : [
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             },
             {
-                type : "Corrente",
-                url : ""
+                "type" : "Corrente",
+                "url" : ""
             }
         ]
       },
@@ -222,12 +222,12 @@
         "lng" : 10.994969,
         "services" : [
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             },
             {
-                type : "Corrente",
-                url : ""
+                "type" : "Corrente",
+                "url" : ""
             }
         ]
       },
@@ -238,12 +238,12 @@
         "lng" : 10.992158,
         "services" : [
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             },
             {
-                type : "Monitoraggio ambientale",
-                url : ""
+                "type" : "Monitoraggio ambientale",
+                "url" : ""
             }
         ]
       },
@@ -254,12 +254,12 @@
         "lng" : 10.993209,
         "services" : [
             {
-                type : "WiFi",
-                url : ""
+                "type" : "WiFi",
+                "url" : ""
             },
             {
-                type : "Monitoraggio ambientale",
-                url : ""
+                "type" : "Monitoraggio ambientale",
+                "url" : ""
             }
         ]
       }
