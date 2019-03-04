@@ -26,7 +26,7 @@
         "services" : [{
                 "type" : "Punto Luce",
                 "url" : "",
-                "procedure" : ["set","power","temperature","brightness]
+                "procedure" : ["set","power","temperature","brightness"]
             },
             {
                 "type" : "Telecamera",
