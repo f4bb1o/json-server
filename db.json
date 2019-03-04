@@ -26,27 +26,7 @@
         "services" : [{
                 "type" : "Punto Luce",
                 "url" : "",
-                "procedure" : [{
-                        "name" : "Set",
-                        "param" : "cmd_dali_set_power",
-                        "value" : [2051876]
-                    },
-                    {
-                        "name" : "Power",
-                        "param" : "cmd_custom_current_sample",
-                        "value" : [4035674]
-                    },
-                    {
-                        "name" : "Temperature",
-                        "param" : "cmd_custom_thermo_sample",
-                        "value" : [2051876]
-                    },
-                    {
-                        "name" : "Brightness",
-                        "param" : "cmd_read_analog",
-                        "value" : [13404015]
-                    }
-                ]
+                "procedure" : ["set","power","temperature","brightness]
             },
             {
                 "type" : "Telecamera",
