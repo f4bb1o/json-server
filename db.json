@@ -30,7 +30,7 @@
             },
             {
                 "type" : "Telecamera",
-                "url" : ""
+                "url" : "rtsp://admin:qw12er34ty56@net.siralab.com:554/onvif2"
             }
         ]
       },
